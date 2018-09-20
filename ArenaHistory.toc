@@ -1,0 +1,4 @@
+## Interface: 80000
+## Title: ArenaHistory
+## Version: 0.0.1
+## Notes: GatherStatsArena
